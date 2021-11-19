@@ -1,6 +1,10 @@
 ### Hi there 👋 My name is Lucas Streanga!
 ## I'm a software engineering major in my senior year at the University of Texas at Arlington!
 
+- I'm currently helping develop a palliative care VR system for the nursing department
+- I enjoy making neat little personal projects
+- ⚡ Fun fact: I love to sing and write music
+
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
