@@ -1,9 +1,7 @@
 ### Hi there 👋 My name is Lucas Streanga!
-## I'm a software engineering major in my senior year at the University of Texas at Arlington!
+## I'm a software engineering currently working at Paycom Payroll.
 
-- 🩺 I'm currently helping develop a palliative care VR system for the nursing department
-- ✴ I enjoy making neat little personal projects
-- ⚡ Fun fact: I love to sing and write music
+Right now I'm working on my programming language Luna, which you can view at [here]: https://github.com/lucas-streanga/luna
 
 ### Connect with me:
 
